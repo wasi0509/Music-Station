@@ -53,6 +53,8 @@ The ESP32 itself does **not** play audio. Audio continues to play through the co
 
 **2.0-inch IPS TFT LCD — ST7789**
 
+Name: 高清IPS 2.0寸TFT液晶显示屏240*320彩屏 ST7789模块 LCD全视角
+
 Specifications:
 
 * Resolution: **240 × 320**
